@@ -56,9 +56,6 @@
           '<input class="article-share-input" value="' + url + '">',
           '<div class="article-share-links">',
             '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="article-share-twitter" target="_blank" title="Twitter"></a>',
-            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="article-share-facebook" target="_blank" title="Facebook"></a>',
-            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="article-share-pinterest" target="_blank" title="Pinterest"></a>',
-            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="article-share-google" target="_blank" title="Google+"></a>',
           '</div>',
         '</div>'
       ].join('');
@@ -134,4 +131,18 @@
 
     $container.removeClass('mobile-nav-on');
   });
+
+  let gitalk = new Gitalk({
+    clientID: 'ee0851ef1062b9a7963d', //Client ID
+
+    clientSecret: 'e2c6b9cfc1157055c116db7ca704ffdaaa068c02', //Client Secret
+
+    repo: 'RCEXBlogCommentsStore',//仓库名称
+    owner: 'StevenRCE0',//仓库拥有者
+    admin: ['StevenRCE0'],
+    id: location.href,      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+
+  gitalk.render('gitalk-container')
 })(jQuery);

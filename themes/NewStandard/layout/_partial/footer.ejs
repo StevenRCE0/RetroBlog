@@ -1,14 +1,6 @@
-<!-- <footer id="footer">
-  <% if (theme.sidebar === 'bottom'){ %>
-    <%- partial('_partial/sidebar') %>
-  <% } %>
-  <div class="outer">
-    <div id="footer-info" class="inner">
-      &copy; <%= date(new Date(), 'YYYY') %> <%= config.author || config.title %><br>
-      <%= __('powered_by') %> <a href="http://hexo.io/" target="_blank">Hexo</a>
-    </div>
-  </div>
-</footer> -->
+<% if (theme.sidebar === 'bottom'){ %>
+<%- partial('_partial/sidebar') %>
+<% } %>
 <section class="FootPart">
     <section class="FootFrameNoAppending">
         <nav class="FootContent">
@@ -32,6 +24,15 @@
             </a>
             <a href="/Atom.xml" target="_blank" class="FootOBJ">
                 Cn9-Post
+            </a>
+        </nav>
+        <br />
+        <nav class="FootContent">
+            <a href="//trdthg.github.io" target="_blank" class="FootOBJ">
+                Trdthg's Blog
+            </a>
+            <a href="//trdthg.github.io" target="_blank" class="FootOBJ">
+                Isliencej's Blog
             </a>
         </nav>
 

@@ -102,7 +102,7 @@ plugin:
 # Feed Atom
 feed:
 type: atom
-path: atom.xml
+path: Atom.xml
 limit: 20
 
 # Deployment

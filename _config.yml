@@ -112,3 +112,13 @@ deploy:
 # Markdown settings
 markdown:
   preset: 'commonmark'
+  plugins:
+    - name: 'markdown-it-emoji'
+    - name: 'markdown-it-footnote'
+    - name: 'markdown-it-sub'
+    - name: 'markdown-it-sup'
+    - name: 'markdown-it-mark'
+    - name: 'markdown-it-ins'
+    - name: 'markdown-it-abbr'
+    - name: 'markdown-it-deflist'
+    - name: 'markdown-it-checkbox'

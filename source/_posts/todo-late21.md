@@ -1,6 +1,6 @@
 ---
 title: Todo List #0
-date: 2021-5-21
+date: 2021-05-21 00:00:00
 tags: Plans
 ---
 

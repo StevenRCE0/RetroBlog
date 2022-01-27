@@ -36,3 +36,6 @@ public
 
 # IDE
 .idea
+
+# preserve vscode settings
+!.vscode

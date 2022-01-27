@@ -111,4 +111,4 @@ deploy:
 
 # Markdown settings
 markdown:
-  preset: 'default'
+  preset: 'commonmark'

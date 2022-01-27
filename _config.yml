@@ -108,3 +108,7 @@ limit: 20
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: ''
+
+# Markdown settings
+markdown:
+  preset: 'default'

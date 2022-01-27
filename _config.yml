@@ -76,7 +76,7 @@ meta_generator: true
 ## http://momentjs.com/docs/#/displaying/format/
 date_format: MM-DD-YYYY
 time_format: HH:mm:ss
-updated_option: time
+updated_option: date
 
 # Pagination
 ## Set per_page to 0 to disable pagination

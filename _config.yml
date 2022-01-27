@@ -4,12 +4,12 @@
 
 # Site
 title: Post
-subtitle: ''
-description: ''
-keywords:
+subtitle: 
+description: 
+keywords: 
 author: StevenRCE0
 language: en
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -76,8 +76,7 @@ meta_generator: true
 ## http://momentjs.com/docs/#/displaying/format/
 date_format: MM-DD-YYYY
 time_format: HH:mm:ss
-## Use post's date for updated date unless set in front-matter
-updated_option: mtime
+updated_option: time
 
 # Pagination
 ## Set per_page to 0 to disable pagination

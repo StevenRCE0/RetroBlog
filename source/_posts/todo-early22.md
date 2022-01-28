@@ -13,7 +13,7 @@ tags: Plans
 ## 这是一个待做清单
 
 - [ ]  将先前的项目办结和放弃。
-- [ ]  完成 (RCEX Live)[https://rcex.live] 的视觉语言设计。
+- [ ]  完成 [RCEX Live](https://rcex.live) 的视觉语言设计。
 
 
 ## 这是一些可能性较低的计划

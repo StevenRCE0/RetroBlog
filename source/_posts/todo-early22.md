@@ -20,7 +20,7 @@ tags: Plans
 
 [ ]  实际接触机器学习基础。
 
-[ ] 习 Blender 之术。
+[ ]  习 Blender 之术。
 
 ## 这是一个待做清单
 

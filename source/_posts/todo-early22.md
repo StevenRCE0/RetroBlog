@@ -14,23 +14,29 @@ tags: Plans
 
 [x]  用 Swift 制作留影机 App。
 
-[ ]  看看经济学。
+[x]  看看经济学。
 
 [ ]  完成部分设计专业前置课程。
 
-[ ]  实际接触机器学习基础。
+[x]  实际接触机器学习基础。
 
-[ ]  习 Blender 之术。
+[x]  习 Blender 之术。
 
 ## 这是一个待做清单
 
 [x]  将先前的项目办结和放弃。
 
-[ ]  完成 [RCEX Live](https://rcex.live) 的视觉语言设计。
+[ ]  完成 [RCEX Live](https://rcex.live) 的视觉语言设计。***推迟***
 
-[ ]  参与一个项目的 Branding 和 UX 工作。
+[ ]  ~~参与一个项目的 Branding 和 UX 工作。~~***计划中止***
 
 <!-- more -->
 ## 这是一些可能性较低的计划
 
 [ ]  扩建一个 UX 圈子。
+
+## 这是额外的完成项目
+
+[x]  智能家居应用。
+
+[x]  在 Swift Student Challenge 获奖。

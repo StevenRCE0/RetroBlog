@@ -41,3 +41,6 @@ public
 # preserve vscode settings
 !.vscode
 !*.code-workspace
+
+# working
+_drafts

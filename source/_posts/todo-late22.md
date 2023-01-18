@@ -3,13 +3,13 @@ title: Todo List №2
 date: 2022-06-29 00:00:00
 tags: Plans
 ---
-## 这是我2022年下半年的计划学习路线图
+## 这是我 2022 年下半年的计划学习路线图
 
 [x]  TouchDesigner 和一些数媒好玩的。
 
 [x]  继续研究 SwiftUI。
 
-[ ]  学习 Spline 或者一些 MG 工具软件。
+[x]  学习 Spline 或者一些 MG 工具软件。
 
 ## 这是一个待做清单
 
